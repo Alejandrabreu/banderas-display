@@ -1,0 +1,29 @@
+.amarillo{
+display: flex;
+  background-color: yellow;
+  color: black;
+  padding-bottom: 3em;
+  height: 100px;
+  width: 200px;
+}
+h4{
+  padding: 0.4em;
+}
+.negro{
+  display: flex;
+  background-color: black;
+  color: white;
+  margin-top: 1em;
+  padding-bottom: 3em;
+  height: 100px;
+  width: 200px;
+}
+.yellow{
+  display: flex;
+  background-color: yellow;
+  color: black;
+  margin-top: 1em;
+  padding-bottom: 3em;
+  height: 100px;
+  width: 200px;
+}
